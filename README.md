@@ -38,14 +38,14 @@ It helps <b>Web Developers</b> to enhance their multilingual projects.
 	<li>Countries Names</li>
 	<li>Countries Native Names</li>
 	<li>Capital Names</li>
-	<li>Countries ISO_2 codes</li>
-	<li>Countries ISO_3 codes</li>
+	<li>Countries ISO_2 Codes</li>
+	<li>Countries ISO_3 Codes</li>
 	<li>Countries Phone Codes</li>
 </ul>
 
 <hr />
 
-<h2>Specifications</h2>
+<h2>Features</h2>
 <ul>
 	<li>Countries names are order alphabetically</li>
 	<li>Capital names are order alphabetically</li>
