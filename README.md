@@ -1,11 +1,28 @@
 # multilingual-lists
 Multilingual lists of countries names, capitals, phone codes and more in (&lt;select>,&lt;ul> and JSON) formats.
 
+<hr />
 <h2>What's the Multilingual Lists project ?</h2>
 <p>
-Is a project providing you the countries lists in your languages. 
-It helps Web Developers to enhance their Multilingual Projects.
+Is a project which providing you the countries lists in your language. 
+It helps <b>Web Developers</b> to enhance their multilingual projects.
 </p>
+
+<hr />
+<h2>Available Languages</h2>
+<ul>
+	<li>English - en</li>
+	<li>Arabic | العـربية - ar</li>
+	<li>German | Deutsch - de</li>
+	<li>Spanish | Español - es</li>
+	<li>Persian | فارسی - fa</li>
+	<li>Italian | Italiano - it</li>
+	<li>Japanese | 日本語 (にほんご) - ja</li>
+	<li>Portuguese | Português - pt</li>
+	<li>Russian | Русский - ru</li>
+	<li>Turkish | Türkçe - tr</li>
+	<li>Chinese | 中文 - zh</li>
+</ul>
 
 <hr />
 <h2>Which types of countries lists will you have ?</h2>
@@ -27,22 +44,7 @@ It helps Web Developers to enhance their Multilingual Projects.
 </ul>
 
 <hr />
-<h2>Available Languages</h2>
-<ul>
-	<li>English - en</li>
-	<li>Arabic | العـربية - ar</li>
-	<li>German | Deutsch - de</li>
-	<li>Spanish | Español - es</li>
-	<li>Persian | فارسی - fa</li>
-	<li>Italian | Italiano - it</li>
-	<li>Japanese | 日本語 (にほんご) - ja</li>
-	<li>Portuguese | Português - pt</li>
-	<li>Russian | Русский - ru</li>
-	<li>Turkish | Türkçe - tr</li>
-	<li>Chinese | 中文 - zh</li>
-</ul>
 
-<hr />
 <h2>Specifications</h2>
 <ul>
 	<li>Countries names are order alphabetically</li>
@@ -59,6 +61,8 @@ It helps Web Developers to enhance their Multilingual Projects.
 
 <hr />
 <h2>Contact Me</h2>
-<p>bakrianoo@gmail.com | Abu Bakr Soliman</p>
+<p>
+<a href='mailto:bakrianoo@gmail.com'>bakrianoo@gmail.com</a>
+ | Abu Bakr Soliman</p>
 
 
