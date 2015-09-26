@@ -4,7 +4,7 @@ Multilingual lists of countries names, capitals, phone codes and more in (SELECT
 <hr />
 <h2>What's the Multilingual Lists project ?</h2>
 <p>
-Is a project which providing you the countries lists in your language. 
+Is a project which providing you with the countries lists in your language. 
 It helps <b>Web Developers</b> to enhance their multilingual projects.
 </p>
 
