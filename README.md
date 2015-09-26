@@ -1,5 +1,5 @@
 # multilingual-lists
-Multilingual lists of countries names, capitals, phone codes and more in (&lt;select>,&lt;ul> and JSON) formats.
+Multilingual lists of countries names, capitals, phone codes and more in (SELECT,UL and JSON) formats.
 
 <hr />
 <h2>What's the Multilingual Lists project ?</h2>
