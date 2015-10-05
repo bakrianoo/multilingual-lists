@@ -13,6 +13,7 @@ It helps <b>Web Developers</b> to enhance their multilingual projects.
 <ul>
 	<li>English - en</li>
 	<li>Arabic | العـربية - ar</li>
+	<li>French | le français - fr</li>
 	<li>German | Deutsch - de</li>
 	<li>Spanish | Español - es</li>
 	<li>Persian | فارسی - fa</li>
